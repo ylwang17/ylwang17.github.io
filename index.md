@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Yanlei Wang Group
+# Yanlei Wang Group
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
