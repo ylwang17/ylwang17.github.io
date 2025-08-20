@@ -8,7 +8,7 @@ This is the repository for my personal website.
 
 ## Update and News
 
-- **Aug 2025:** My personal website have been implemented in [yanleiwang.com] (https://yanleiwang.com).
+- **Aug 2025:** My personal website have been implemented.
 
 ## Star History
 
