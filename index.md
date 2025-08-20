@@ -4,37 +4,32 @@ layout: page
 
 # Yanlei Wang Group
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://ylwang17.github.io/caver.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+There's Plenty of Room at the Bottom —— Richard Feynman.
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+Dr. Yanlei Wang (王艳磊) is an associate professor in School of Chemistry and Life, Renmin University of China. He received his B.S. from University of Science and Technology of China (2012) and Ph.D. from Tsinghua University (2017), and he also conduct research in Massachusetts Institute of Technology (2015). From 2017 to 2024, he worked as assistant and associate processor at Institute of Process Engineering Chinese Academy of Sciences. He has received funding from multiple talent programs, including the National Natural Science Foundation of China Youth Science Fund Project (Class B) (formerly the Excellent Youth Science Fund), the China Association for Science and Technology Youth Talent Support Project, and the Beijing Science and Technology New Star Program.
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+His research focuses on nano-confined thermodynamics and green chemical applications. Employing an integrated approach that combines theoretical modeling, molecular simulations, data-driven methods, and experimental validation, he investigates the interactions and microstructures of water, ionic liquids, and other fluid systems under nanoscale confinement. His work aims to develop confinement-enhanced transport-reaction models that support applications in carbon capture, utilization, and storage (CCUS), energy conversion, biomolecular detection, and related areas—ultimately advancing the development and implementation of advanced green technologies. Based on these research interests, 10 representative publications are
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **ylwang17 [at] ruc.edu.cn**
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- Large Language Model Agents
-- LLM for Networking
-
+- Green Medium (Ionic Liquids)
+- Computational Nanofludics
+- CO2 separation and conversion
+- Selective ionic transport
 ---
 
 ## News and Updates
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **Aug 2025**：Delighted to be selected as a member of GA青年学者5班!
+- **April 2025**：Collaborative article published in Science Advances [Kun Li](https://www.science.org/doi/full/10.1126/sciadv.adv4771).
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
