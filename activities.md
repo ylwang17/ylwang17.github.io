@@ -19,7 +19,7 @@ This page introduced the activities that occured in the group.
 
 --**Aug 2025** Happy Morning!
 <div class="second">
-<img src="/images/group1.jpg">
+<img src="/images/group1.JPG">
 <img src="/images/group2.jpg">
 </div>
 
