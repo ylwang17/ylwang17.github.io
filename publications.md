@@ -3,49 +3,20 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
+[2025][2024][2023][2022][2021][2020][2019][2018][2017][Student]
+> (#: equal contribution, *: corresponding author)
 
-> (†: equal contribution, ~: corresponding author)
+## 2025
+-Direct observation and force modulation of single-bond reactions at the ion/metal interface, C Zhao#, K Li#, **Y Wang***, H He*, C Jia*, X Guo*, _**Science Advances**_ 2025, accepted.
+-Unveiling molecular mechanisms of enhanced N2 solvation and diffusion in ionic liquid mixtures, K Li, **Y Wang***, H He*, _**Chemical Engineering Science**_ 2025, 304, 120967
+-Accelerated CO2 preferential permeation using graphene oxide confined ionic liquid membranes for CO2/H2 separation, H Dong, **Y Wang***, W Ding, Y Qiu, H He*, _**Separation and Purification Technology**_ 2025, 354, 129158
+-Grafted graphene oxide membrane confining ionic liquid for high efficiency CO2/H2 separation, Y Qiu, **Y Wang***, H Li, H Dong, K Li, J Lu, H He*, _**Separation and Purification Technology**_, 2024, 130891
+-Computer-aided ionic liquid design for green chemical processes based on molecular simulation and artificial intelligence, X Pi, J Lu, S Li, J Zhang, **Y Wang***, H He, _**Separation and Purification Technology**_ 2025, 361：131585
 
-## Journal Paper
-
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
-  
-  
-  
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br>
-
-## Conference Paper
-
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.<br>
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.<br>
-
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.<br>
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
-
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-  <br>
-
----
-
-## Degree Thesis
-
-- Semantic Communicaiton for the Internet of Everything: From Molecules to Universe<br>Hanlin Cai (Advisor: Ozgur B. Akan).
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to ACM SIGKDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China HUADING Tech.<br>
+## 2024
+-Fluorine Domains Induced Ultrahigh Nitrogen Solubility in Ionic Liquids, K Li,** Y Wang***, C Wang, F Huo, S Zhang*, H He*, _**Journal of the American Chemical Society**_, 146 (37), 25569-25577.
+-Ionic Liquid Gating Induces Anomalous Permeation through Membrane Channel Proteins, Ju Liu#, **Yanlei Wang#**, Bo Gao, Kun Zhang, Hui Li*, Jing Ren, Feng Huo, Baofeng Zhao, Lihua Zhang, Suojiang Zhang*, Hongyan He*, _**Journal of the American Chemical Society**_, 146, 19, 13588–13597, 2024. DOI: 10.1021/jacs.4c03506
+-Nanofluid-guided Janus membrane for high-efficiency electricity generation from water evaporation, Y Han, **Y Wang***, M Wang, H Dong, Y Nie, S Zhang*, H He*, _**Advanced Materials**_, 36: 2312209, 2024. DOI: 10.1002/adma.202312209
 
   <br>
 
