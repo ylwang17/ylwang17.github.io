@@ -3,7 +3,10 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-[2025][2024][2023][2022][2021][2020][2019][2018][2017][Student]
+[2025](https://github.com/ylwang17/ylwang17.github.io/blob/main/publications.md#2025)
+[2024](https://github.com/ylwang17/ylwang17.github.io/blob/main/publications.md#2024)
+[2023](https://github.com/ylwang17/ylwang17.github.io/blob/main/publications.md#2023)
+[2022][2021][2020][2019][2018][2017][Student]
 > (#: equal contribution, *: corresponding author)
 
 ## 2025
@@ -17,6 +20,8 @@ title: Publications
 -Fluorine Domains Induced Ultrahigh Nitrogen Solubility in Ionic Liquids, K Li,** Y Wang***, C Wang, F Huo, S Zhang*, H He*, _**Journal of the American Chemical Society**_, 146 (37), 25569-25577<br>
 -Ionic Liquid Gating Induces Anomalous Permeation through Membrane Channel Proteins, Ju Liu#, **Yanlei Wang#**, Bo Gao, Kun Zhang, Hui Li*, Jing Ren, Feng Huo, Baofeng Zhao, Lihua Zhang, Suojiang Zhang*, Hongyan He*, _**Journal of the American Chemical Society**_, 146, 19, 13588–13597, 2024. DOI: 10.1021/jacs.4c03506<br>
 -Nanofluid-guided Janus membrane for high-efficiency electricity generation from water evaporation, Y Han, **Y Wang***, M Wang, H Dong, Y Nie, S Zhang*, H He*, _**Advanced Materials**_, 36: 2312209, 2024. DOI: 10.1002/adma.202312209<br>
+
+## 2023
 
   <br>
 
