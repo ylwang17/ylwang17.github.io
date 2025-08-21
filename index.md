@@ -8,7 +8,7 @@ layout: page
 
 There's Plenty of Room at the Bottom —— Richard Feynman.
 
-Dr. Yanlei Wang (王艳磊) is an associate professor in School of Chemistry and Life, Renmin University of China. He received his B.S. from University of Science and Technology of China (2012) and Ph.D. from Tsinghua University (2017), and he also conduct research in Massachusetts Institute of Technology (2015). From 2017 to 2024, he worked as assistant and associate processor at Institute of Process Engineering Chinese Academy of Sciences. He has received funding from multiple talent programs, including the National Natural Science Foundation of China Youth Science Fund Project (Class B) (formerly the Excellent Youth Science Fund), the China Association for Science and Technology Youth Talent Support Project, and the Beijing Science and Technology New Star Program.
+Dr. Yanlei Wang (王艳磊) is an associate professor at School of Chemistry and Life, Renmin University of China. He received his B.S. from University of Science and Technology of China (2012) and Ph.D. from Tsinghua University (2017), and he also conduct research in Massachusetts Institute of Technology (2015). From 2017 to 2024, he worked as assistant and associate processor at Institute of Process Engineering Chinese Academy of Sciences. He has received funding from multiple talent programs, including the National Natural Science Foundation of China Youth Science Fund Project (Class B) (formerly the Excellent Youth Science Fund), the China Association for Science and Technology Youth Talent Support Project, and the Beijing Science and Technology New Star Program.
 
 ---
 
