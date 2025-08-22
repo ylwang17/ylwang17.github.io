@@ -18,8 +18,7 @@ This page introduced the activities that occured in the group.
 ## Workshop & Group Meeting
 
 --**Aug 2025** Happy Morning!
-<div class="second">
-<img src="/images/group1.JPG">
+<div class="first">
 <img src="/images/group2.jpg">
 </div>
 
