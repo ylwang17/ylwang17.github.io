@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 ---
 
-### Research Interest
+### Computatioanl Nanofludics and Interfacial Engineering
 XXXXX
 
 ### 1. Fundamental understanding of green medium confined in nanoscale spaces.
