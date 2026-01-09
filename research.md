@@ -4,8 +4,7 @@ permalink: /research/index.html
 title: Research
 ---
 
-### Computatioanl Nanofludics and Interfacial Engineering
-XXXXX
+### Computatioanl Nanofludics and Interfacial Engineering (CNICE)
 
 ### 1. Fundamental understanding of green medium confined in nanoscale spaces.
 XXXXX
